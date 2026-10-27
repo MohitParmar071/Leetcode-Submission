@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0048-rotate-image](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0048-rotate-image/) | Medium |
+| [0053-maximum-subarray](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0075-sort-colors/) | Medium |
 | [0229-majority-element-ii](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0229-majority-element-ii/) | Medium |
 ## Hash Table
@@ -49,6 +50,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0053-maximum-subarray](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0053-maximum-subarray/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,4 +67,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0075-sort-colors/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
