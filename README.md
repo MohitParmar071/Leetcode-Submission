@@ -10,6 +10,7 @@
 | [0048-rotate-image](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0088-merge-sorted-array/) | Easy |
 | [0229-majority-element-ii](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0229-majority-element-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -33,6 +34,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0088-merge-sorted-array/) | Easy |
 | [0229-majority-element-ii](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0229-majority-element-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -59,6 +61,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0088-merge-sorted-array/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
