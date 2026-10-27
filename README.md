@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0048-rotate-image](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0048-rotate-image/) | Medium |
+| [0075-sort-colors](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0075-sort-colors/) | Medium |
 | [0229-majority-element-ii](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0229-majority-element-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -30,6 +31,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0075-sort-colors/) | Medium |
 | [0229-majority-element-ii](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0229-majority-element-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -51,4 +53,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0048-rotate-image/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0075-sort-colors/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
