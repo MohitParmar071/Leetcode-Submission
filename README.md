@@ -80,4 +80,16 @@
 | [0053-maximum-subarray](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0118-pascals-triangle/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0152-maximum-product-subarray/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
