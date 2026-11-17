@@ -15,6 +15,7 @@
 | [0118-pascals-triangle](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0118-pascals-triangle/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0229-majority-element-ii](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0229-majority-element-ii/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +40,7 @@
 | [0075-sort-colors](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0088-merge-sorted-array/) | Easy |
 | [0229-majority-element-ii](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0229-majority-element-ii/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +53,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +63,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0048-rotate-image/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,4 +99,8 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 <!---LeetCode Topics End-->
