@@ -16,6 +16,7 @@
 | [0152-maximum-product-subarray](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0229-majority-element-ii](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0229-majority-element-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0735-asteroid-collision](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0735-asteroid-collision/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +90,7 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0735-asteroid-collision](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0735-asteroid-collision/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,4 +105,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0735-asteroid-collision](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0735-asteroid-collision/) | Medium |
 <!---LeetCode Topics End-->
