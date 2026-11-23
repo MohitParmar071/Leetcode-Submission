@@ -125,6 +125,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -139,6 +140,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Breadth-First Search
@@ -162,6 +164,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -174,9 +177,18 @@
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
