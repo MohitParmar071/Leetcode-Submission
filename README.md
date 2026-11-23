@@ -122,6 +122,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +133,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +142,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0226-invert-binary-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,6 +154,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
