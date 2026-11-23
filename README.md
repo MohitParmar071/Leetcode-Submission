@@ -17,6 +17,7 @@
 | [0229-majority-element-ii](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0229-majority-element-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0735-asteroid-collision](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0735-asteroid-collision/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +94,7 @@
 | [0225-implement-stack-using-queues](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0735-asteroid-collision](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0735-asteroid-collision/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +125,7 @@
 | [0226-invert-binary-tree](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,8 +158,17 @@
 | [0226-invert-binary-tree](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MohitParmar071/Leetcode-Submission/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
